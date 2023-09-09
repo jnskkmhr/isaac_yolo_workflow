@@ -1,0 +1,9 @@
+[submodule "isaac2coco_process"]
+	path = isaac2coco_process
+	url = git@github.com:jnskkmhr/isaac2coco_process.git
+[submodule "JSON2YOLO_MODIFIED"]
+	path = JSON2YOLO_MODIFIED
+	url = git@github.com:jnskkmhr/JSON2YOLO_MODIFIED.git
+[submodule "yolov8-seg"]
+	path = yolov8-seg
+	url = git@github.com:jnskkmhr/yolov8-seg.git
